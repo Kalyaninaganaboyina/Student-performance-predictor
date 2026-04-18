@@ -32,11 +32,14 @@ Regression Problem (predicting continuous values)
    pip install pandas matplotlib scikit-learn
 
 2. Run:
-   python main.py
+   python Student_performance.py
 
 ## 📷 Output
  <img width="1920" height="1080" alt="Screenshot 2026-04-18 191150" src="https://github.com/user-attachments/assets/77d5ca65-735b-445f-a05b-f85fa1165bbb" />
- # Below image shows MAE and R2_score  for linear regression and decisionTree regressor
+
+ 
+ 
+ ## Below image shows MAE and R2_score  for linear regression and decisionTree regressor
  <img width="1920" height="1080" alt="Screenshot 2026-04-18 191222" src="https://github.com/user-attachments/assets/09502988-29e6-4934-b6c0-eb7ff9c09083" />
 
 
