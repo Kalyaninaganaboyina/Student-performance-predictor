@@ -1,0 +1,6 @@
+
+Required Libraries:
+-----------------
+pandas 
+scikit-learn
+matplotlib
